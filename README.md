@@ -1,1 +1,1 @@
-# stock-ticker
+# stock-tickler

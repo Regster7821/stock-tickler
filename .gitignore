@@ -1,0 +1,26 @@
+# ignore Django secret key
+secrets.json
+
+# ignore all logs
+*.log
+logs 
+
+# ignore database files
+*.sqlite3
+
+# ignore C Python files
+*.pyc
+
+# ignore migrations
+app/migrations/*
+
+# ignore React auto-generated files
+.DS_*
+**/*.backup.*
+**/*.back.*
+node_modules
+bower_components
+*.sublime*
+psd
+thumb
+sketch
